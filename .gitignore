@@ -29,3 +29,16 @@ temp/
 .DS_Store
 venv/
 pred*/
+
+# sbt specificf
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.idea
+.idea/*
